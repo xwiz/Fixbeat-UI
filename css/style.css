@@ -93,13 +93,24 @@ footer {
 .welcome-wrap {
   margin-top: 5em;
 }
-
+.shot {
+  background: #999;
+  padding: 1.5em;
+  height: 298px;
+}
+.w-content {
+  padding: 1.5em;
+  color: #777;
+  line-height: 1.8;
+}
 .welcome-box {
   background: #fff;
   border: 1px solid #999;
-  padding: 1.5em;
   border-radius: 3px;
+  padding: 0;
   box-shadow: 1px 2px 1px rgba(204, 204, 204, 0.51);
+  height: 300px;
+  margin-bottom: 3em;
 }
 
 @font-face {
