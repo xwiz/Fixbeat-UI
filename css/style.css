@@ -94,7 +94,7 @@ footer {
   margin-top: 5em;
 }
 .shot {
-  background: #999;
+  background: #999 url(../img/wel.jpg) no-repeat;
   padding: 1.5em;
   height: 298px;
 }
