@@ -1,4 +1,5 @@
 body {
+  background: #fefefe;
   font-family: Montserrat, sans-serif;
   font-size: 14px;
   padding: 50px 0 0;
@@ -89,8 +90,16 @@ footer {
   padding: 3em 0 5em;
 }
 
-.welcome {
-  
+.welcome-wrap {
+  margin-top: 5em;
+}
+
+.welcome-box {
+  background: #fff;
+  border: 1px solid #999;
+  padding: 1.5em;
+  border-radius: 3px;
+  box-shadow: 1px 2px 1px rgba(204, 204, 204, 0.51);
 }
 
 @font-face {
