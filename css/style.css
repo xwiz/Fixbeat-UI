@@ -19,7 +19,7 @@ h3, .h3 {
   font-size: 20px;
 }
 .jumbotron {
-  background: url(../img/banner.jpg) no-repeat center bottom;
+  background: #4a484b url(../img/banner.jpg) no-repeat center bottom;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -32,6 +32,7 @@ h3, .h3 {
   line-height: 2;
   font-weight: normal;
   padding: 1.3em 0 0;
+  color: #fff;
 }
 @media (min-width: 1200px) {
   .container {
@@ -64,10 +65,9 @@ h3, .h3 {
   padding-top: 2em;
 }
 section.feature {
-  background: #31414f;
+  background: #f0f3f8;
   padding: 3.2em 0;
   margin: 30px 0;
-  color: #fff;
 }
 .feature.two {
   background: #f0f3f8;

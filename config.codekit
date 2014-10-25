@@ -92,7 +92,7 @@
 		"outputAbbreviatedPath": "\/img\/banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/logo.png": {
 		"fileType": 32768,
@@ -116,11 +116,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index_.html": {
+	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index_.html",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
